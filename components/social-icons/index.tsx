@@ -21,7 +21,6 @@ const components = {
   linkedin: Linkedin,
   twitter: Twitter,
   x: X,
-  mastodon: Mastodon,
   threads: Threads,
   instagram: Instagram,
   medium: Medium,

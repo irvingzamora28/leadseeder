@@ -1,27 +1,22 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'ALLSET Template',
+  title: 'Leadseeder',
   author: 'imzodev',
-  headerTitle: 'ALLSET Template',
-  description:
-    'AI-powered Next.js landing page generator for compelling content and SEO-optimized blog posts.',
+  headerTitle: 'Leadseeder',
+  description: 'Best LinkedIn Automation Tool for Lead Generation.',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://allset-template.vercel.app',
+  siteUrl: 'https://leadseedervercel.app',
   siteRepo: 'https://github.com',
-  siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo2.png`,
+  siteLogo: '/static/images/logo-uploaded.png',
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.jpg`,
-  mastodon: 'https://mastodon.social/@mastodonuser',
   email: 'address@yoursite.com',
-  github: 'https://github.com',
   x: 'https://twitter.com/x',
   // twitter: 'https://twitter.com/Twitter',
   facebook: 'https://facebook.com',
   youtube: 'https://youtube.com',
   linkedin: 'https://www.linkedin.com',
-  threads: 'https://www.threads.net',
   instagram: 'https://www.instagram.com',
-  medium: 'https://medium.com',
   bluesky: 'https://bsky.app/',
   locale: 'en-US',
   // set to true if you want a navbar fixed to the top
