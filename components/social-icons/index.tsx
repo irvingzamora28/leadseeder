@@ -6,7 +6,6 @@ import {
   Linkedin,
   Twitter,
   X,
-  Mastodon,
   Threads,
   Instagram,
   Medium,
